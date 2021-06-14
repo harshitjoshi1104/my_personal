@@ -1,0 +1,73 @@
+@media screen and (max-width: 600px)
+    {
+        .main_heading
+            {
+                font-size: 1mm;
+                text-align: center;
+                font-weight:3cm ;
+                font-family: 'Sacramento', cursive;
+                color: rgb(10, 14, 224);
+            }
+            .dice
+            {
+                background-image: url("../images/background_image_dice_roll.jpg");
+                background-repeat: no-repeat;
+                background-size: cover;        
+                
+                display: inline;
+                font-size: 1mm;
+                
+            }
+
+    }
+.container
+    {
+        background-image: url("../images/background_image_dice_roll.jpg");
+        height: 900px;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+.main_heading
+    {
+        background-image: url("../images/background_image_dice_roll.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        font-size: 1in;
+        text-align: center;
+        font-weight:3cm ;
+        color: wheat;
+    
+        font-family: 'Sacramento', cursive;
+        
+    }
+
+    
+
+.dice
+    {
+        background-image: url("../images/background_image_dice_roll.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;        
+        width: 50%;
+        display: inline;
+        font-size: 1cm;
+        float: left;
+    }
+
+.dicee1
+    {
+        background-image: url("../images/player1_side_background.PNG");
+        background-repeat: no-repeat;
+        background-size: cover;
+
+    }
+
+.dicee2
+    {
+        background-image: url("../images/player2_side_background.PNG");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+

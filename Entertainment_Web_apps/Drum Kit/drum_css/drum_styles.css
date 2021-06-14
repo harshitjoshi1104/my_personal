@@ -1,0 +1,46 @@
+@media (max-width:400px)
+    {
+        .div1_styling
+        {
+            background-color: rgb(27, 1, 70);
+        }
+        .h1_large
+            {
+                font-size: 0.3in;
+            }
+        .drum_class
+        {
+            width: 2cm;
+            height:2cm;
+        }
+    }
+
+.div1_styling
+    {
+        background-color: rgb(27, 1, 70);
+        
+    }
+.h1_large
+    {
+        padding: 3cm;
+        font-size: 1in;
+        font-family: 'Sacramento', cursive;
+        color:tomato;
+        text-align: center;
+        text-decoration: underline;
+        
+    }
+
+.drum_class
+    {
+        width: 4cm;
+        height: 4cm;
+        
+    }
+
+.pressed
+    {
+        opacity: 0.7;
+        
+    }
+
